@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phantom-rabbit)](https://github.com/phantom-rabbit/github-readme-stats)
+
+![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=phantom-rabbit&show_icons=true&theme=tokyonight)

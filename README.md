@@ -2,3 +2,4 @@
 
 ### Hi there 👋
 
+I am a blockchain developer and currently focus on ipfs/filecoin
